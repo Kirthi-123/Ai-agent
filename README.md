@@ -45,9 +45,8 @@ This project is a Streamlit-based application that enables users to retrieve and
 ### Installation
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-repo/ai-agent.git
-   cd ai-agent
+ git clone https://github.com/your-repo/ai-agent.git
+ cd ai-agent
    
 Create a Virtual Environment:
 python -m venv venv
