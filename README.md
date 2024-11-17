@@ -48,14 +48,14 @@ This project is a Streamlit-based application that enables users to retrieve and
  git clone https://github.com/your-repo/ai-agent.git
  cd ai-agent
    
-Create a Virtual Environment:
+2. **Create a Virtual Environment**:
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-Install Dependencies:
+3. **Install Dependencies**:
 pip install -r requirements.txt
 
-Set Up API Keys:
+4. **Set Up API Keys**:
 Open config.py and add your API keys:
 SERPAPI_API_KEY = "your_serpapi_api_key"
 GROQ_API_KEY = "your_groq_api_key"
