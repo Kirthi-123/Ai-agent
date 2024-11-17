@@ -60,7 +60,7 @@ Open config.py and add your API keys:
 SERPAPI_API_KEY = "your_serpapi_api_key"
 GROQ_API_KEY = "your_groq_api_key"
 GOOGLE_SHEETS_CREDENTIALS = {
-    # Paste your Google Service Account JSON key contents here
+    ###Paste your Google Service Account JSON key contents here
 }
 
 Run the Streamlit App:
