@@ -48,7 +48,7 @@ This project is a Streamlit-based application that enables users to retrieve and
 ### Installation
 
 1. **Clone the Repository**:
- git clone https://github.com/your-repo/Ai-agent.git
+ git clone https://github.com/Kirthi-123/Ai-agent.git
  cd ai-agent
    
 2. **Create a Virtual Environment**:
